@@ -2,7 +2,13 @@
 
 A modern, interactive skill tree application built with React, TypeScript, and ReactFlow. Create, manage, and unlock skills in a visual tree structure with dynamic connections and real-time progress tracking.
 
-## 🚀 Setup Instructions
+## � Screenshots
+
+View detailed screenshots and visual examples of the application in action:
+
+👉 **[App Screenshots Wiki](https://github.com/hazu100/interactive-skill-tree-builder/wiki/App-Screenshots)**
+
+## �🚀 Setup Instructions
 
 ### Prerequisites
 - **Node.js** (version 20.19+ or 22.12+) - Required by Vite
