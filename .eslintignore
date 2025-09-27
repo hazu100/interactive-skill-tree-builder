@@ -1,0 +1,17 @@
+# Build outputs
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Dependencies
+node_modules/
+
+# Config files that don't need strict linting
+*.config.js
+*.config.ts
+vite.config.ts
+
+# Auto-generated files
+public/
