@@ -17,7 +17,7 @@ A modern, interactive skill tree application built with React, TypeScript, and R
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/hazu100/interactive-skill-tree-builder
    cd interactive-skill-tree-builder
    ```
 
