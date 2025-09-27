@@ -129,7 +129,6 @@ npm test
 
 ## 🤖 AI Tool Usage Disclosure - Chatgpt & Copilot
 
-- ****: 
 - **Testing**: Comprehensive unit test suites with Jest and React Testing Library
 - **Documentation**: README structure, code comments, and setup instructions
 - **Styling**: Creating modern styles/color guidance etc
